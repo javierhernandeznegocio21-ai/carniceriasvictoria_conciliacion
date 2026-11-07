@@ -1,7 +1,17 @@
 conciliacion.code-workspace
 plan_de_accion.md
 config/config.php
+config/smtp.php
 logs/*
 sql/*
 composer.json
 composer.lock
+config/gmail/client.json
+config/gmail/token.json
+.agents/
+node_modules/
+package-lock.json
+playwright-report/
+test-results/
+tests/e2e/
+
